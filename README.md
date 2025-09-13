@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KavunSvizhyi
 - 👀 I’m interested in everything that connected to programming
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning HTML/CSS/JavaScript/C#
 - 📫 How to reach me: maksrudyka@gmail.com
 - ⚡ Fun fact: Always online
 
